@@ -52,7 +52,6 @@ function calcularResposta(n1, n2, op) {
 }
 
 // Verifica se a resposta do usuário está correta
-// Verifica se a resposta do usuário está correta
 function verificarResposta() {
   const respostaUsuario = parseInt(document.getElementById("resposta").value);
 
